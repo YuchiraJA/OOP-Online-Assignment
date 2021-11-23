@@ -1,20 +1,7 @@
-/**
- * OOP 2018
- * 
- * @author Udara Samaratunge  Department of Software Engineering, SLIIT 
- * 
- * @version 1.0
- * Copyright: SLIIT, All rights reserved
- * 
- */
+
 package com.oop.model;
 
-/**
- * This is the Employee model class
- * 
- * @author Udara Samaratunge, SLIIT
- * @version 1.0
- */
+
 public class Employee {
 
 	private String EmployeeID;
